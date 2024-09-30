@@ -23,7 +23,6 @@
 
 ###
 <ul>
-    <li>🔭 I’m studying Analysis and Development of Systems</li>
     <li>📚 I'm currently learning emulation and backend development in JS/TS (NestJS)</li>
      <li>⚡ In my free time I enjoy reading tech news and staying updated with the latest in the tech world</li>
 
