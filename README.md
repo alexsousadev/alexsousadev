@@ -1,7 +1,6 @@
-## Hi, I'm an Development of Systems student passionate about hardware emulation 👋
-
-
-<div align="center">
+# Francisco Alexandro
+I am a developer with a background as an Electronics Technician and a strong focus on embedded systems and low-level programming. I enjoy reverse-engineering and emulation, exploring how hardware and software interact at their core to reproduce or extend system behavior. My work bridges embedded development and backend solutions, emphasizing performance, reliability, and practical applicability. Currently pursuing a Bachelor's in Systems Analysis and Development while advancing projects that integrate microcontrollers, communication protocols, and scalable software architectures.
+ <div align="center">
   <a href="https://www.linkedin.com/in/alexandrosousadev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -13,40 +12,25 @@
   </a>
 </div>
 
-###
+---
 
-###
+## Relevant projects
 
-###
+**[Boardroom](https://github.com/ProgramadoresSemPatria/boardroom-team-07)** — Platform simulating an AI-powered board environment 
+- Contributed to backend development: routing logic and database organization.  
+- Winner of a 1-week hackathon by [Bordeless Coding](https://www.borderlesscoding.com/en).
 
-<h3 align="left">👩‍💻  About Me</h3>
+**[Silent Guard](https://github.com/alexsousadev/silentguard)** — Device for monitoring noise levels 
+- Personal project for BitDogLab to monitor noise in quiet environments.  
+- Embedded implementation using a microphone for continuous measurement, LED matrix/display feedback, and buzzer alarm.  
 
-###
-<ul>
-    <li>📚 I'm currently learning emulation and backend development in JS/TS (NestJS)</li>
-     <li>⚡ In my free time I enjoy reading tech news and staying updated with the latest in the tech world</li>
+**[BLE Server on Raspberry Pi Pico W](https://github.com/alexsousadev/ble_picow)** — BLE server to send Pico W data to mobile devices
+- Step-by-step modular project to help beginners build functional embedded BLE applications.  
 
-</ul>
+---
 
-### 🛠 Languages and Tools :
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+## Courses & Certifications
+
+- Blockchain Advanced — FIAP (2022)  
+- 5G Certification — Huawei (2023)  
+- Professional Training in Embedded Systems — Softex/IFPI (2024)
