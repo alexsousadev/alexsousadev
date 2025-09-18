@@ -1,4 +1,4 @@
-# Francisco Alexandro
+# Alexandro Sousa
 I am a developer with a background as an Electronics Technician and a strong focus on embedded systems and low-level programming. I enjoy reverse-engineering and emulation, exploring how hardware and software interact at their core to reproduce or extend system behavior. My work bridges embedded development and backend solutions, emphasizing performance, reliability, and practical applicability. Currently pursuing a Bachelor's in Systems Analysis and Development while advancing projects that integrate microcontrollers, communication protocols, and scalable software architectures.
  <div align="center">
   <a href="https://www.linkedin.com/in/alexandrosousadev/" target="_blank">
