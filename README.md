@@ -17,7 +17,7 @@ I am a developer with a background as an Electronics Technician and a strong foc
 ## Relevant projects
 
 **[CHIP-8 Emulator](https://github.com/alexsousadev/chip8dive)** — Emulator for the CHIP-8
-- Fully functional CHIP-8 emulator written in TypeScript and React,
+- Fully functional CHIP-8 emulator written in TypeScript and React
 - Created comprehensive documentation covering both the CHIP-8 system architecture and the emulator’s implementation.
 
 **[Silent Guard](https://github.com/alexsousadev/silentguard)** — Device for monitoring noise levels 
