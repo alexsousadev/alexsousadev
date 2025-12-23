@@ -16,9 +16,9 @@ I am a developer with a background as an Electronics Technician and a strong foc
 
 ## Relevant projects
 
-**[Boardroom](https://github.com/ProgramadoresSemPatria/boardroom-team-07)** — Platform simulating an AI-powered board environment 
-- Contributed to backend development: routing logic and database organization.  
-- Winner of a 1-week hackathon by [Bordeless Coding](https://www.borderlesscoding.com/en).
+**[CHIP-8 Emulator](https://github.com/alexsousadev/chip8dive)** — Emulator for the CHIP-8
+- Fully functional CHIP-8 emulator written in TypeScript and React,
+- Created comprehensive documentation covering both the CHIP-8 system architecture and the emulator’s implementation.
 
 **[Silent Guard](https://github.com/alexsousadev/silentguard)** — Device for monitoring noise levels 
 - Personal project for BitDogLab to monitor noise in quiet environments.  
