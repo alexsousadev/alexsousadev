@@ -1,14 +1,13 @@
 # Alexandro Sousa
-I am a developer with a background as an Electronics Technician and a strong focus on embedded systems and low-level programming. I enjoy reverse-engineering and emulation, exploring how hardware and software interact at their core to reproduce or extend system behavior. My work bridges embedded development and backend solutions, emphasizing performance, reliability, and practical applicability. Currently pursuing a Bachelor's in Systems Analysis and Development while advancing projects that integrate microcontrollers, communication protocols, and scalable software architectures.
+
+I am a software developer focused on embedded systems, low-level programming and TypeScript. I enjoy reverse-engineering and emulation, exploring how hardware and software interact at their core to reproduce or extend system behavior. My work bridges embedded development and backend solutions, emphasizing performance, reliability, and practical applicability. 
+
  <div align="center">
   <a href="https://www.linkedin.com/in/alexandrosousadev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/alexsousa.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@alex.sousa.aux" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
   </a>
 </div>
 
@@ -34,3 +33,8 @@ I am a developer with a background as an Electronics Technician and a strong foc
 - Blockchain Advanced — FIAP (2022)  
 - 5G Certification — Huawei (2023)  
 - Professional Training in Embedded Systems — Softex/IFPI (2024)
+
+--- 
+I maintain a personal website where I write technical posts focused on understanding how things work —
+🔗 [Bit a Bit](https://alexsousadev.github.io/bitabit/)
+
