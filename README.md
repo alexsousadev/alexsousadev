@@ -1,6 +1,6 @@
 # Alexandro Sousa
 
-I am a software developer focused on embedded systems, low-level programming and TypeScript. I enjoy reverse-engineering and emulation, exploring how hardware and software interact at their core to reproduce or extend system behavior. My work bridges embedded development and backend solutions, emphasizing performance, reliability, and practical applicability. 
+I’m a Software Engineer with over 2 years of experience specializing in backend and low-level systems (C, Python, TypeScript). My expertise lies in merging low-level efficiency with AI-driven solutions and scalable web architectures. I have a proven track record of implementing CI/CD pipelines with 100% stability and optimizing database performance by 35% for critical, high-traffic APIs.
 
  <div align="center">
   <a href="https://www.linkedin.com/in/alexandrosousadev/" target="_blank">
