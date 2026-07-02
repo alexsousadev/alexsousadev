@@ -31,5 +31,5 @@ I maintain a personal website where I write technical posts focused on understan
 
 Some posts you might find interesting:
 - [How Barcodes Work](https://bitabit.pages.dev/blog/2026/05/20/como-funciona-o-codigo-de-barras/)
-- [ow the RSA Algorithm Works](https://bitabit.pages.dev/blog/2026/03/14/como-o-algoritmo-rsa-funciona/)
+- [How the RSA Algorithm Works](https://bitabit.pages.dev/blog/2026/03/14/como-o-algoritmo-rsa-funciona/)
 
