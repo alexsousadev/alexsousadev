@@ -30,6 +30,6 @@ I maintain a personal website where I write technical posts focused on understan
 🔗 [Bit a Bit](https://bitabit.vercel.app/). 
 
 Some posts you might find interesting:
-- [How Barcodes Work](https://bitabit.pages.dev/blog/2026/05/20/como-funciona-o-codigo-de-barras/)
-- [How the RSA Algorithm Works](https://bitabit.pages.dev/blog/2026/03/14/como-o-algoritmo-rsa-funciona/)
+- [How Barcodes Work](https://bitabit.vercel.app/blog/2026/05/20/como-funciona-o-codigo-de-barras/)
+- [How the RSA Algorithm Works](https://bitabit.vercel.app/blog/2026/03/14/como-o-algoritmo-rsa-funciona/)
 
