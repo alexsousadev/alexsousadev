@@ -27,7 +27,7 @@ I’m a Software Engineer with over 2 years of experience specializing in backen
 
 --- 
 I maintain a personal website where I write technical posts focused on understanding how things work —
-🔗 [Bit a Bit](https://alexsousadev.github.io/bitabit/). 
+🔗 [Bit a Bit](https://bitabit.vercel.app/). 
 
 Some posts you might find interesting:
 - [How Barcodes Work](https://bitabit.pages.dev/blog/2026/05/20/como-funciona-o-codigo-de-barras/)
